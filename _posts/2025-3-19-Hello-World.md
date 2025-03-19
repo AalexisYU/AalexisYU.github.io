@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: PHYS 3130 Project Data with Jekyll Blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Greetings readers, this is my first blog post. As the Winter 2025 semester winds down, one of my physics courses has me creating a blog, and I find that a very intriguing change of pace. Nonetheless, this post in particular will be dedicated to my PHYS3130 - Practical Data Science Methods course's final project part 1.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
