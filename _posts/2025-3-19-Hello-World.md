@@ -9,8 +9,5 @@ The data I selected for the project is from the NEOWISE dataset, one containing 
 
 
 References
-A. Mainzer, T. Grav, J. M. E. H. J. B. D. T. R. S. M. T. S. R. M. C.-E. W. J.
-  W. W. M. and Maleszewski, C. (2011). Neowise studies of spectrophoto-
-  metrically classified asteroids: Preliminary results. https://iopscience.
-  iop.org/article/10.3847/PSJ/ab8638/meta. Online; posted October
-  21, 2011.
+
+A. Mainzer, T. Grav, J. M. E. H. J. B. D. T. R. S. M. T. S. R. M. C.-E. W. J. W. W. M. and Maleszewski, C. (2011). Neowise studies of spectrophotometrically classified asteroids: Preliminary results. https://iopscience.iop.org/article/10.3847/PSJ/ab8638/meta. Online; posted October 21, 2011.
